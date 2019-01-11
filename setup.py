@@ -56,7 +56,7 @@ setup(
         'tests': [
             'pytest==3.4.2',
             'nose==1.3.7',
-            'mixer==6.0.1',
+            'mixer==6.1.3',
             'mock==2.0.0',
             'moto==0.4.30',
             'freezegun>=0.3.7',
